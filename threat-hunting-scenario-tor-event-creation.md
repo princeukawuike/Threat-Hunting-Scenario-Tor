@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Prince Ukawuike
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/prince-ukawuike-9a17701ba/
 - **Date**: April 25, 2025
 
 ## Validated By:
